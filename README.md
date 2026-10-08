@@ -62,4 +62,4 @@ Versión actual: **v1.0 - Cierre de fase de organización técnica.** Planificac
 
 ## Autor
 
-Abraham Cabral Morffe — Matrícula 100090630
+Abraham Cabral Morffe - Matrícula 100090630
