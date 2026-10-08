@@ -1,4 +1,4 @@
-# SGCO — Sistema de Gestión para Centro Odontológico
+# SGCO - Sistema de Gestión para Centro Odontológico
 
 ## Descripción
 
@@ -25,13 +25,13 @@ Arquitectura en capas (Presentación / Aplicación / Persistencia) con el patró
 
 ## Herramientas utilizadas
 
-- **GitHub Projects** — tablero Kanban y seguimiento de tareas
-- **GitHub Issues** — registro de historias de usuario, requisitos y tareas técnicas
-- **Visual Paradigm Online** (modo VPasCode / PlantUML) — modelado UML y diagrama arquitectónico
+- **GitHub Projects** - tablero Kanban y seguimiento de tareas
+- **GitHub Issues** - registro de historias de usuario, requisitos y tareas técnicas
+- **Visual Paradigm Online** (modo VPasCode / PlantUML) - modelado UML y diagrama arquitectónico
 
 ## Estado del proyecto
 
-En desarrollo — fase de planificación, modelado y organización técnica completada; implementación de módulos en curso. Ver el tablero de [GitHub Projects](https://github.com/users/ELOINUNE/projects) del repositorio para el estado actual de cada tarea.
+En desarrollo - fase de planificación, modelado y organización técnica completada; implementación de módulos en curso. Ver el tablero de [GitHub Projects](https://github.com/users/ELOINUNE/projects) del repositorio para el estado actual de cada tarea.
 
 ## Autor
 
