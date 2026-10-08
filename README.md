@@ -1,4 +1,4 @@
-# SGCO — Sistema de Gestión para Centro Odontológico
+# SGCO - Sistema de Gestión para Centro Odontológico
 
 ## Descripción
 
@@ -34,7 +34,7 @@ El sistema se organiza en dos grandes bloques que se comunican entre sí mediant
 
 **Backend (capas de Aplicación y Persistencia)**
 - **Autenticación:** gestiona el inicio de sesión y valida el rol de cada usuario antes de autorizar una acción.
-- **Lógica de Negocio:** procesa las reglas del sistema — validar disponibilidad de horario antes de agendar, calcular el estado de una factura, generar reportes — y es el único punto de acceso a la Base de Datos.
+- **Lógica de Negocio:** procesa las reglas del sistema - validar disponibilidad de horario antes de agendar, calcular el estado de una factura, generar reportes - y es el único punto de acceso a la Base de Datos.
 - **Servicios:** ejecuta tareas de apoyo como el envío de recordatorios automáticos y la generación de reportes.
 - **Base de Datos:** almacena de forma centralizada pacientes, citas, historiales clínicos, facturas y empleados.
 
@@ -42,13 +42,13 @@ El sistema se organiza en dos grandes bloques que se comunican entre sí mediant
 
 ## Herramientas utilizadas
 
-- **GitHub Projects** — tablero Kanban y seguimiento de tareas
-- **GitHub Issues** — registro de historias de usuario, requisitos y tareas técnicas
-- **Visual Paradigm Online** (modo VPasCode / PlantUML) — modelado UML y diagrama arquitectónico
+- **GitHub Projects** - tablero Kanban y seguimiento de tareas
+- **GitHub Issues** - registro de historias de usuario, requisitos y tareas técnicas
+- **Visual Paradigm Online** (modo VPasCode / PlantUML) - modelado UML y diagrama arquitectónico
 
 ## Estado del proyecto
 
-Versión actual: **v1.0 — Cierre de fase de organización técnica.** Planificación, especificación de requisitos, modelado UML y diseño arquitectónico completados; implementación de módulos en curso. Ver el tablero de [GitHub Projects](https://github.com/users/ELOINUNE/projects) del repositorio para el estado actual de cada tarea, y la sección de [Issues](https://github.com/ELOINUNE/sgco-sistema-odontologico/issues) para el seguimiento de incidencias y tareas pendientes.
+Versión actual: **v1.0 - Cierre de fase de organización técnica.** Planificación, especificación de requisitos, modelado UML y diseño arquitectónico completados; implementación de módulos en curso. Ver el tablero de [GitHub Projects](https://github.com/users/ELOINUNE/projects) del repositorio para el estado actual de cada tarea, y la sección de [Issues](https://github.com/ELOINUNE/sgco-sistema-odontologico/issues) para el seguimiento de incidencias y tareas pendientes.
 
 ## Registro de cambios
 
